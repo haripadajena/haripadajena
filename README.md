@@ -39,15 +39,16 @@
   <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
   </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical)
-
-![Haripada Jena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
