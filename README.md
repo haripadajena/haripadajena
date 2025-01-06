@@ -3,6 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## About Me
+
 - 🌱 I’m currently learning [React].
 - 💼 I’m working on [Laravel Project/Role].
 - 📫 How to reach me: [jenaharipada@gmail.com](jenaharipada@gmail.com).
