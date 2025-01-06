@@ -1,5 +1,5 @@
 # Hi, I'm [Haripada Jena] 👋
-<h3 align="center">I have successfully completed my Master of Computer Applications (MCA) from Biju Patnaik University of Technology (BPUT), Odisha.</h3>
+<h3>I have successfully completed my Master of Computer Applications (MCA) from Biju Patnaik University of Technology (BPUT), Odisha.</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## About Me
