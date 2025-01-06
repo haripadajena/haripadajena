@@ -1,6 +1,6 @@
 # Hi, I'm [Haripada Jena] 👋
-
-<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">I have successfully completed my Master of Computer Applications (MCA) from Biju Patnaik University of Technology (BPUT), Odisha.</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## About Me
 - 🌱 I’m currently learning [React].
