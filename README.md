@@ -36,4 +36,5 @@
 - 🌐 Github: [https://github.com/haripadajena](https://github.com/haripadajena)
 - 🔗 LinkedIn: [https://linkedin.com/in/haripada-jena-953584132](https://linkedin.com/in/haripada-jena-953584132)
 
+![Haripada Jena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical)
 
