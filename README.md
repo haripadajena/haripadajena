@@ -52,3 +52,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical&card_width=300" alt="Top Languages">
+</p>
