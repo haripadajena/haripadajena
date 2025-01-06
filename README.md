@@ -37,6 +37,6 @@
 - 🔗 LinkedIn: [https://linkedin.com/in/haripada-jena-953584132](https://linkedin.com/in/haripada-jena-953584132)
   
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical&card_width=300" alt="Top Languages">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haripadajena&layout=compact&theme=radical&card_width=250" alt="Top Languages">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=haripadajena&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
