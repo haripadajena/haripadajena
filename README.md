@@ -1,4 +1,6 @@
 # Hi, I'm [Haripada Jena] 👋
+![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
 
 ## About Me
 - 🌱 I’m currently learning [React].
@@ -22,5 +24,4 @@
 - 🌐 Github: [https://github.com/haripadajena](https://github.com/haripadajena)
 - 🔗 LinkedIn: [https://linkedin.com/in/haripada-jena-953584132](https://linkedin.com/in/haripada-jena-953584132)
 
-![Laravel](https://img.shields.io/badge/Laravel-10-red)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
+
