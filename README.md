@@ -16,7 +16,7 @@
 - 💼 I’m working on [Laravel Project/Role].
 - 📫 How to reach me: [jenaharipada@gmail.com](jenaharipada@gmail.com).
 - ⚡ Fun fact: [I'm constantly exploring new technologies and working on exciting projects to improve my skills and help others. I have experience working with [list some key technologies you use, e.g., Laravel, jQuery, AJAX, MySQL, etc.], and I'm always eager to learn more.].
-- <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## Skills
 - 🔹 Frontend: [HTML,CSS,BOOTSTRAP,JQUERY,AJAX,REACT].
