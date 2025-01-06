@@ -1,15 +1,6 @@
 # Hi, I'm [Haripada Jena] 👋
-![Laravel](https://img.shields.io/badge/Laravel-10-red)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
-![PHP](https://img.shields.io/badge/PHP-8.1-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet)
-![jQuery](https://img.shields.io/badge/jQuery-3.6.0-green)
-![AJAX](https://img.shields.io/badge/AJAX-Asynchronous-lightgrey)
-![HTML5](https://img.shields.io/badge/HTML5-5-blue)
-![CSS3](https://img.shields.io/badge/CSS3-3-blue)
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## About Me
 - 🌱 I’m currently learning [React].
@@ -23,7 +14,16 @@
 - 🔹 Programming: [PHP,LARAVEL].
 - 🔹 Framework: [LARAVEL].
 - 🔹 Tools: [VS Code,GitHub]
-
+![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet)
+![jQuery](https://img.shields.io/badge/jQuery-3.6.0-green)
+![AJAX](https://img.shields.io/badge/AJAX-Asynchronous-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-5-blue)
+![CSS3](https://img.shields.io/badge/CSS3-3-blue)
 ## Projects
 - [Project 1 modern-html-ui-designs](https://github.com/haripadajena/modern-html-ui-designs): A brief description of the project.
 - [Project 2 php](https://github.com/haripadajena/php): A brief description of the project.
