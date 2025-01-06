@@ -1,6 +1,15 @@
 # Hi, I'm [Haripada Jena] 👋
 ![Laravel](https://img.shields.io/badge/Laravel-10-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet)
+![jQuery](https://img.shields.io/badge/jQuery-3.6.0-green)
+![AJAX](https://img.shields.io/badge/AJAX-Asynchronous-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-5-blue)
+![CSS3](https://img.shields.io/badge/CSS3-3-blue)
+
 
 ## About Me
 - 🌱 I’m currently learning [React].
