@@ -9,12 +9,12 @@
 - 📫 How to reach me: [jenaharipada@gmail.com](jenaharipada@gmail.com).
 - ⚡ Fun fact: [I'm constantly exploring new technologies and working on exciting projects to improve my skills and help others. I have experience working with [list some key technologies you use, e.g., Laravel, jQuery, AJAX, MySQL, etc.], and I'm always eager to learn more.].
 - ![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-10-red)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
-![PHP](https://img.shields.io/badge/PHP-8.1-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet)
+![Laravel](https://img.shields.io/badge/Laravel-10-red?logo=laravel)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet?logo=boostrap)
 ![jQuery](https://img.shields.io/badge/jQuery-3.6.0-green)
 ![AJAX](https://img.shields.io/badge/AJAX-Asynchronous-lightgrey)
 ![HTML5](https://img.shields.io/badge/HTML5-5-blue)
