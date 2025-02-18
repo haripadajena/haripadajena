@@ -9,7 +9,7 @@
 - 📫 How to reach me: [jenaharipada@gmail.com](jenaharipada@gmail.com).
 - ⚡ Fun fact: [I'm constantly exploring new technologies and working on exciting projects to improve my skills and help others. I have experience working with [list some key technologies you use, e.g., Laravel, jQuery, AJAX, MySQL, etc.], and I'm always eager to learn more.].
 - ![React](https://img.shields.io/badge/React-18.2.0-blue)
-- ![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![Laravel](https://img.shields.io/badge/Laravel-10-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
 ![PHP](https://img.shields.io/badge/PHP-8.1-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
